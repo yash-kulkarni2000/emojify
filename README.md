@@ -1,0 +1,5 @@
+# emojify
+Today, the most common way of communication among people is virtual platforms, whether using internet or phones The current generation uses online applications and platforms to communicate and exchange conversations. However, communicating emotions is difficult. As a result, small and simple pictures, otherwise known as emoji characters, are used to supplement emotions when using written language. Emoji characters are becoming more and more popularized therefore the variation of these characters has increased.
+
+Emojis or avatars are ways to indicate nonverbal cues. These cues have become an essential part of online chatting, product review, brand emotion, and many more. It also lead to increasing data science research dedicated to emoji-driven storytelling.
+With advancements in computer vision and deep learning, it is now possible to detect human emotions from images. In this deep learning project, we will classify human facial expressions to filter and map corresponding emojis or avatars.
